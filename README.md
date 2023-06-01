@@ -4,7 +4,7 @@ As students, both undergraduate and graduate, we often find ourselves burdened w
 
 By analyzing lifestyle and wellbeing data, this study aims to shed light on the underlying causes of student stress and explore strategies that can help students lead fulfilling lives in both personal and professional domains. The research will examine primary and secondary datasets to understand the interconnections and impacts of physical, psychological, professional, and social dimensions on overall students' wellbeing.
 
-# Specific objectives of this project include:
+## Specific objectives of this project include:
 
      a. Detailed analysis on the dimensions such as students’ physical, psychological, professional, and social health.
      b. Analyzing datasets to identify the primary factors influencing stress levels among students.
